@@ -1,3 +1,4 @@
 # My Colab Notebook
-In this repository I will publish notebook which I worked in google colaboratory. 
+Repository contains Jupyter Notebook, worked or practice in colab.
+
 
